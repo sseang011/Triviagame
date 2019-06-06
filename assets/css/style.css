@@ -1,0 +1,78 @@
+
+html, body{
+    height:100%;
+    color: white;
+  }
+  
+  body{
+    background-image: url(../images/endgame.jpeg);
+    text-align: center;
+  
+  }
+  
+  #wrapper{
+    margin:1% auto;
+    background-color: rgba(0, 0, 255, 0.1);
+    width: 960px;
+    height: 90%;
+    box-sizing: border-box;
+    color: white;
+  }
+  
+  #subwrapper{
+    margin-top: 10%;
+    position: relative;
+    color: white;   
+  }
+  button{
+    display:block;
+    width:50%;
+    height:20%;
+    margin: 0 auto;
+    border:none;
+    cursor: pointer;
+    background:transparent;
+    font-size: 42px;;
+  }
+
+  #quiz-area {
+      margin-top: 10%;
+      color: white;
+  }
+  
+  img{
+    height:200px;
+  }
+  
+  h1{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 6.5em;
+    font-weight: bold;
+    color: white;
+    padding-top: 2.5%;
+  }
+  
+  h2{
+    font-size: 35px;
+    margin-bottom: 25px;
+    color: white;
+  }
+  
+  h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  #start{
+    margin-top: 10%;
+    border:2px solid blue;
+    background: pink;
+  }
+  
+  
+  
+  button:hover {
+    border:2px solid blue;
+    background: white;
+  }
