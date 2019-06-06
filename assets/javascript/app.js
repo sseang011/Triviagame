@@ -20,42 +20,42 @@ var questions = [{
   question: "Who does Heimdall manage to send to Earth during Thanos' attack?",
   answers: ["Iron man", "Hulk", "Thor", "Spiderman"],
   correctAnswer: "Hulk",
-  image: "assets/images/hulk.gif"
+  image: "./assets/images/hulk.gif"
 }, {
   question: "Where is Loki's sceptre ultimately located?",
   answers: ["Sokovia", "Berkeley", "San Francisco", "Toronto"],
   correctAnswer: "Sokovia",
-  image:"assets/images/loki.gif"
+  image:"./assets/images/loki.gif"
 }, {
   question: "What is the name of the weapon that Thor forges on the star of Nidavellir?",
   answers: ["Stormbreaker", "Teethbreaker", "Armbreaker", "Heartbreaker"],
   correctAnswer: "Strombreaker",
-  image:"assets/images/thor.gif"
+  image:"./assets/images/thor.gif"
 }, {
   question: 'In the middle of the battle in Wakanda, Steve Rogers introduces himself to someone. Who is it??',
   answers: ["Ironman", "Trumph", "Batman", "Groot"],
   correctAnswer: "Groot",
-  image:"assets/images/groot.gif"
+  image:"./assets/images/groot.gif"
 }, {
   question: 'Where does Loki plan to open the wormhole?',
   answers: ["Newyork", "South Africa", "North Korea", "Japan"],
   correctAnswer: "Newyork",
-  image:"assets/images/newyork.gif"
+  image:"./assets/images/newyork.gif"
 }, {
   question: 'Which character gets "officially" inducted into the Avengers by Tony Stark during the events of "Avengers: Infinity War"?',
   answers: ["Spiderman", "X-man", "Superman", "Captian Planet"],
   correctAnswer: "Spiderman",
-  image:"assets/images/spiderman.gif"
+  image:"./assets/images/spiderman.gif"
 }, {
   question: "During the fight on the planet Titan, who is the only one who is able to make Thanos bleed?",
   answers: ["Ironman", "Manny", "Bruce Lee", "Trumph"],
   correctAnswer: "Ironman",
-  image:"assets/images/ironman.gif"
+  image:"./assets/images/ironman.gif"
 }, {
   question: "Who is the villain of Endgame? ",
   answers: ["Thanos", "Joker", "Aggramar", "Reina"],
   correctAnswer: "Thanos",
-  image:"assets/images/thanos.gif"
+  image:"./assets/images/thanos.gif"
 }];
 
 
